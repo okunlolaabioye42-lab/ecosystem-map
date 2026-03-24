@@ -672,42 +672,4 @@ Please be aware that in order for a jetton to be considered for inclusion in our
 
 ## Inscriptions
 
-| Name       | Telegram                                | GitHub | Twitter                                      | Website                       |
-| ---------- | --------------------------------------- | ------ | -------------------------------------------- | ----------------------------- |
-| Tonano     | [Telegram](https://t.me/tonanoOfficial) |        | [Twitter](https://twitter.com/Ton_scription) | [Website](https://tonano.io)  |
-| Shard.Zone | [Telegram](https://t.me/TonShardZone)   |        | [Twitter](https://twitter.com/ShardMarket)   | [Website](https://shard.zone) |
-
-## POW
-
-| Name     | Telegram                              | GitHub | Twitter                                      | Website                         |
-| -------- | ------------------------------------- | ------ | -------------------------------------------- | ------------------------------- |
-| Gram     | [Telegram](https://t.me/gramcoinorg)  |        | [Twitter](https://twitter.com/Ton_scription) | [Website](https://gramcoin.org) |
-| Meridian | [Telegram](https://t.me/ton_mrdn_bot) |        | [Twitter](https://twitter.com/ShardMarket)   | [Website](https://meridian.wtf) |
-
----
-
-# Disclaimer
-
-**No Investment Advice or Endorsement:**
-The information provided is not investment advice, and listing on TON Ecosystem Map does not constitute an endorsement for any decentralized application. Users should independently verify project credibility before participating.
-
-**Information Accuracy:**
-While we strive for accuracy, we disclaim responsibility for any missing or incorrect information. Use the information at your own risk.
-
-# Contribution Guidelines
-
-This list is a grouped collection of live projects built on [TON](https://ton.org/).
-
-Ensure your pull request adheres to the following:
-
-- `|` Project Name in _Title Case_ followed by `|`
-- Accepted Links - _Telegram_, _GitHub_, _Twitter_, _Website URL_ each separated by `|`
-- Ensure the project is suggested within the correct category. No more than _2_ allowed
-- Entries should be arranged in alphabetical order, sorted by Project Name
-
-Example: `| Project Name | [Telegram](url) | [GitHub](url) | [Twitter](url) | [Website](url)`
-
-## Updating Your PR
-
-If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
+| Name       | Telegram                                | G
